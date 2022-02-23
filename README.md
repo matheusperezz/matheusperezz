@@ -5,21 +5,24 @@
 
 ## About me:
 
-<div></div>
+📘 - Cursando Ciências da computação e atualmente estou no 3º Semestre
 
-<div>
-  <img src='./kitty.svg' width'400'/>
-</div>
+💻 - Estudando frequentemente tecnologias Mobile como Flutter e Android Nativo e um pouco de Web com React
+
+❤ - Paixão por matemática, filosofia, computação e apreciador de uma boa música.
+
+<img src='./kitty.svg' width='200'/>
 
 
-## 💻 GitHub Stats
 
-<div align="center">
+<h2>💻 GitHub Stats</h2>
+
+<div align="start">
 <div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusMelo8&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/></div>
 
  
-## 🔨 Linguagens e Ferramentas:
-  
+  <h2>🔨 Linguagens e Ferramentas</h2>
+
 <a href="https://flutter.com" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
