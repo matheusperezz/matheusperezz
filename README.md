@@ -8,7 +8,7 @@
 <div></div>
 
 <div>
-  <img src='kitty.svg' width'400'/>
+  <img src='./kitty.svg' width'400'/>
 </div>
 
 
