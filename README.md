@@ -5,7 +5,11 @@
 
 ## About me:
 
+<div></div>
 
+<div>
+  <img src='kitty.svg' width'200em'/>
+</div>
 
 
 ## 💻 GitHub Stats
