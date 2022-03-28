@@ -5,11 +5,9 @@
 
 ## About me:
 
-📱 - Desenvolvedor Nativo Android
+💻 - Desenvolvedor FullStack e Android nativo.
 
 📘 - Cursando Ciências da computação e atualmente estou no 3º Semestre
-
-💻 - Estudando frequentemente tecnologias Mobile como e um pouco de Web com React
 
 ❤ - Paixão por matemática, filosofia, computação e apreciador de uma boa música.
 
