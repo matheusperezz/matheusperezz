@@ -1,11 +1,11 @@
 <h3 align="center">
-  Bem vindo ao perfil de Matheus Melo
+  Bem vindo ao perfil de Matheus Perez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ## About me:
 
-💻 - Desenvolvedor FullStack e Android nativo.
+💻 - Scuba Team - Alura | Mobile.
 
 📘 - Cursando Ciências da computação e atualmente estou no 3º Semestre
 
