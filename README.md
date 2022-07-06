@@ -7,7 +7,7 @@
 
 💻 - Scuba Team - Alura | Mobile.
 
-📘 - Cursando Ciências da computação e atualmente estou no 3º Semestre
+📘 - Cursando Ciências da computação e atualmente estou no 4º Semestre
 
 ❤ - Paixão por matemática, filosofia, computação e apreciador de uma boa música.
 
