@@ -1,7 +1,4 @@
-<h3 align="center">
-  Bem vindo ao perfil de Matheus Perez
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Acme&pause=1000&color=AE6AD2&center=true&multiline=true&width=600&height=150&lines=Hi%2C+my+name+is+Matheus+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+Mobile+Developer)](https://git.io/typing-svg)
 
 ## About me:
 
@@ -10,9 +7,6 @@
 📘 - Cursando Ciências da computação e atualmente estou no 4º Semestre
 
 ❤ - Paixão por matemática, filosofia, computação e apreciador de uma boa música.
-
-<img src='./kitty.svg' width='200'/>
-
 
 
 <h2>💻 GitHub Stats</h2>
