@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Acme&pause=1000&color=AE6AD2&center=true&multiline=true&width=600&height=150&lines=Hi%2C+my+name+is+Matheus+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+Mobile+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Acme&size=36&pause=1000&color=AE6AD2&multiline=true&width=600&height=150&lines=Hi%2C+my+name+is+Matheus+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+Mobile+Developer)](https://git.io/typing-svg)
 
 ## About me:
 
