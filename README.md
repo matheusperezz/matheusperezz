@@ -2,21 +2,35 @@
 
 ## About me:
 
-💻 - Scuba Team - Alura | Mobile.
+💻 - Internal at Alura | Mobile
 
-📘 - Cursando Ciências da computação e atualmente estou no 4º Semestre
+📘 - 4th period of Bachelor's Degree - Computer Science
 
-❤ - Paixão por matemática, filosofia, computação e apreciador de uma boa música.
+❤ - Passion for mathematics, philosophy, computing and lover of good music.
 
+<blockquote>
+Peço-lhe que tente ter amor pelas próprias perguntas, como quartos fechados e como livros escritos em uma língua estrangeira. Não investigue agora as respostas que não lhe podem ser dadas, porque não poderia vivê-las. E é disto que se trata, de viver tudo. Viva agora as perguntas. Talvez passe, gradativamente, em um belo dia, sem perceber, a viver as respostas.
+<br><br>
+ - <i>Rainer Maria Rilke</i>
+</blockquote>
 
 <h2>💻 GitHub Stats</h2>
 
 <div align="start">
-<div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusperezz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/></div>
+ 
+### Treak Stats
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusperezz&theme=algolia" alt="oribendet"  />
+
+### My Stats
+[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusperezz&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
+ 
+</div>
 
  
-  <h2>🔨 Linguagens e Ferramentas</h2>
+<h2>🔨 Linguagens e Ferramentas</h2>
 
+<div>
 <a href="https://flutter.com" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
@@ -25,4 +39,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+</div>
+
+
   
