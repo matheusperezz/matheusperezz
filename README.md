@@ -28,7 +28,7 @@ Peço-lhe que tente ter amor pelas próprias perguntas, como quartos fechados e 
 </div>
 
  
-<h2>🔨 Linguagens e Ferramentas</h2>
+<h2>🔨 Stack</h2>
 
 <div>
 <a href="https://flutter.com" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
