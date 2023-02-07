@@ -22,8 +22,6 @@ Peço-lhe que tente ter amor pelas próprias perguntas, como quartos fechados e 
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusperezz&theme=algolia" alt="oribendet"  />
 
-### My Stats
-[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusperezz&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
  
 </div>
 
