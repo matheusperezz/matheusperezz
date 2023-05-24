@@ -2,7 +2,7 @@
 
 ## About me:
 
-💻 - Internal at Alura | Mobile
+💻 - Developer at Alura | Mobile
 
 📘 - 5th period of Bachelor's Degree - Computer Science
 
