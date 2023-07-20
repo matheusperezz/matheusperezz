@@ -4,7 +4,7 @@
 
 💻 - Developer at Alura | Mobile
 
-📘 - 5th period of Bachelor's Degree - Computer Science
+📘 - 6th period of Bachelor's Degree - Computer Science
 
 ❤ - Passion for philosophy, computing and lover of good music.
 
