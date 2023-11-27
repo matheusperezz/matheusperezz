@@ -2,17 +2,11 @@
 
 ## About me:
 
-💻 - Developer at Alura | Mobile
+💻 - Developer at Alura | Android
 
 📘 - 6th period of Bachelor's Degree - Computer Science
 
 ❤ - Passion for philosophy, computing and lover of good music.
-
-<blockquote>
-Peço-lhe que tente ter amor pelas próprias perguntas, como quartos fechados e como livros escritos em uma língua estrangeira. Não investigue agora as respostas que não lhe podem ser dadas, porque não poderia vivê-las. E é disto que se trata, de viver tudo. Viva agora as perguntas. Talvez passe, gradativamente, em um belo dia, sem perceber, a viver as respostas.
-<br><br>
- - <i>Rainer Maria Rilke</i>
-</blockquote>
 
 <h2>💻 GitHub Stats</h2>
 
