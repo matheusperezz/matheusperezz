@@ -6,8 +6,6 @@
 
 📘 - 6th period of Bachelor's Degree - Computer Science
 
-❤ - Passion for philosophy, computing and lover of good music.
-
 <h2>💻 GitHub Stats</h2>
 
 <div align="start">
@@ -16,7 +14,6 @@
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusperezz&theme=algolia" alt="oribendet"  />
 
- 
 </div>
 
  
