@@ -4,7 +4,7 @@
 
 💻 - Developer at Alura | Android
 
-📘 - 6th period of Bachelor's Degree - Computer Science
+📘 - 7th period of Bachelor's Degree - Computer Science
 
 <h2>💻 GitHub Stats</h2>
 
