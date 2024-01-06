@@ -18,7 +18,6 @@
  
 <h2>🔨 Stack</h2>
 
-<div>
 <a href="https://developer.android.com/" target="_blank"> <img align="left" alt="android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://go.dev/" target="_blank"> <img align="left" alt="Golang" height ="42px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png"></a>
@@ -28,15 +27,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-</div>
+<br><br>
 
-<div>
- 
 <h2>📞 Contact</h2>
 
-<a href="" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-<a href="mailto:matheus.mperez08@gmail.com"> <img align="left" alt="Email" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> </a>
-
-</div>
-
+- [LinkedIn](https://www.linkedin.com/in/matheusdeperez/)
+- [Email](mailto:matheus.mperez08@gmail.com)
   
