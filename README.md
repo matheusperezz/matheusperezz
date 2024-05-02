@@ -2,7 +2,7 @@
 
 ## About me:
 
-💻 - Developer at Alura | Android
+💻 - Software engineer | Android
 
 📘 - 7th period of Bachelor's Degree - Computer Science
 
