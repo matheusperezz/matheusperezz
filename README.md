@@ -4,7 +4,7 @@
 
 💻 - Software engineer | Android
 
-📘 - 7th period of Bachelor's Degree - Computer Science
+📘 - 8th period of Bachelor's Degree - Computer Science
 
 <h2>💻 GitHub Stats</h2>
 
