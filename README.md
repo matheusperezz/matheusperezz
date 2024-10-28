@@ -2,7 +2,7 @@
 
 ## About me:
 
-💻 - Software engineer | Android
+💻 - Software engineer | Go | Typescript | C++ | Rust
 
 📘 - 8th period of Bachelor's Degree - Computer Science
 
