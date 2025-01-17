@@ -4,7 +4,7 @@
 
 💻 - Software engineer | Go | Kotlin | Typescript | C++ | Rust
 
-📘 - 8th period of Bachelor's Degree - Computer Science
+📘 - Bachelor's Degree - Computer Science
 
 <h2>💻 GitHub Stats</h2>
 
