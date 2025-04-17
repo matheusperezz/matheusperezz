@@ -1,6 +1,6 @@
 ## About me:
 
-💻 - Software developer | Go | Kotlin | C
+💻 - Software developer | Go | Kotlin | Rust
 
 📘 - Bachelor's Degree - Computer Science
  
